@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at JSS Science and Technology University<br>BE in Computer Science Engineering<br>I'm currently learning Full Stack Web Development
+Student at JSS Science and Technology University<br>BE in Computer Science Engineering<br> Full Stack Web Development
 
 
 ## 🌐 Socials:
